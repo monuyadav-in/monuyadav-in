@@ -11,13 +11,13 @@
 
 ## 🌐 Connect with me  
 <p align="left">
-  <a href="https://leetcode.com/u/monu_ydv108/" target="_blank">
+  <a href="https://leetcode.com/u/monuyadav-in/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://github.com/monuydv108" target="_blank">
+  <a href="https://github.com/monuyadav-in" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/monuyadav1126/" target="_blank">
+  <a href="https://www.linkedin.com/in/monuyadav-in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -71,15 +71,15 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monuydv108&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monuydv108&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=monuyadav-in&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monuyadav-in&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
 ---
 
 ## 🏆 LeetCode Stats  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/monu_ydv108?theme=dark&font=source_code_pro&ext=activity" alt="LeetCode Stats" width="800" height="300"/>
+  <img src="https://leetcard.jacoblin.cool/monuyadav-in?theme=dark&font=source_code_pro&ext=activity" alt="LeetCode Stats" width="800" height="300"/>
 </p>
 
 ---
